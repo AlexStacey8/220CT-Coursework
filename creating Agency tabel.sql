@@ -1,0 +1,6 @@
+CREATE TABLE Agency
+(
+Agcy_No INT NOT NULL,
+Lead_Agency VARCHAR(255),
+Country VARCHAR(255)
+);

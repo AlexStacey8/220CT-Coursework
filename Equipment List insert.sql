@@ -1,0 +1,10 @@
+INSERT INTO Equipment_List (Mission_No, Equipment, Quantity, Item_Weight) VALUES ('ISS-2237','Portable water dispenser',2,100),
+('ISS-2237','Felxible Airduct',6,0.5),
+('ISS-2237','Small storage rack',4,2),
+('ISS-3664','Biofilter',6,0.2),
+('ISS-2356','Small storage rack',3,2),
+('ISS-2356','Battery Pack',2,5),
+('ISS-2356','Urine transfer tubing',2,1.5),
+('ISS-2356','O2 scrubber',1,50),
+('ISS-1234','Small storage rack',1,2),
+('ISS-1234','Flexible Airduct',2,0.5)
